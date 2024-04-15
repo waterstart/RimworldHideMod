@@ -1,10 +1,10 @@
 <ModMetaData>
-	<name>SimpleMod</name>
+	<name>rimworldproject</name>
 	<author>NA</author>
-    <packageId>NA.SimpleMod</packageId>
+    <packageId>NA.rimworldproject</packageId>
 	<supportedVersions>
 		<li>1.1</li>
 	</supportedVersions>
-	<description>jst a patch for aotc</description>
+	<description>simple mod test</description>
 	<url>https://steamcommunity.com/id/NA/myworkshopfiles/?appid=294100</url>
 </ModMetaData>
